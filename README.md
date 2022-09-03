@@ -9,5 +9,6 @@
   <sub>CURATED WITH ❤️ BY Rakshit Dogra.</sub>
 </p>
 
-<h1 align="center">Win11-Debloater</h1>
+
+<h1 align="center">Important / Disclaimer</h1>
 THIS SCRIPT WILL DELETE ALL SYSTEM APPS INCLUDING IMAGE VIEWER AND BASIC CAMERA APP AND LEFT A EXTREMELY LITE VERSION OF WINDOWS.
