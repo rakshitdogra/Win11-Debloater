@@ -1,0 +1,60 @@
+Copy and paste this file in WINDOWS POWERSHELL (RUNNED AS ADMINISTRATOR).
+
+
+Get-AppxPackage -allusers Microsoft.PPIProjection | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.BingNews | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.GetHelp | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.GetstartedMicrosoft.Messaging | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.Microsoft3DViewer | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.MicrosoftOfficeHub | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.MicrosoftSolitaireCollection | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.NetworkSpeedTest | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.News | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.Office.Lens | Remove-AppxPackage
+Get-AppxPackage *bingsports* | Remove-AppxPackage
+
+Get-AppxPackage -allusers Microsoft.Office.OneNote | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.Office.Sway | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.OneConnect | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.People | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.Print3D | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.RemoteDesktop | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.SkypeApp | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.StorePurchaseApp | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.Office.Todo.List | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.Whiteboard | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.WindowsAlarms | Remove-AppxPackage
+Get-AppxPackage -allusers microsoft.windowscommunicationsapps | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.WindowsFeedbackHub | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.WindowsMaps | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.WindowsSoundRecorder | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.Xbox.TCUI | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.XboxApp | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.XboxGameOverlay | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.XboxGamingOverlay | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.XboxIdentityProvider | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.XboxSpeechToTextOverlay | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.ZuneMusic | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.ZuneVideo | Remove-AppxPackage
+
+Get-AppxPackage -allusers EclipseManager | Remove-AppxPackage
+Get-AppxPackage -allusers ActiproSoftwareLLC | Remove-AppxPackage
+Get-AppxPackage -allusers AdobeSystemsIncorporated.AdobePhotoshopExpress | Remove-AppxPackage
+Get-AppxPackage -allusers Duolingo-LearnLanguagesforFree | Remove-AppxPackage
+Get-AppxPackage -allusers PandoraMediaInc | Remove-AppxPackage
+Get-AppxPackage -allusers CandyCrush | Remove-AppxPackage
+Get-AppxPackage -allusers BubbleWitch3Saga | Remove-AppxPackage
+Get-AppxPackage -allusers Wunderlist | Remove-AppxPackage
+Get-AppxPackage -allusers Flipboard | Remove-AppxPackage
+Get-AppxPackage -allusers Twitter | Remove-AppxPackage
+Get-AppxPackage -allusers Facebook | Remove-AppxPackage
+Get-AppxPackage -allusers Spotify | Remove-AppxPackage
+Get-AppxPackage -allusers Minecraft | Remove-AppxPackage
+Get-AppxPackage -allusers Royal Revolt | Remove-AppxPackage
+Get-AppxPackage -allusers Sway | Remove-AppxPackage
+Get-AppxPackage -allusers Dolby | Remove-AppxPackage
+
+Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
+
+cd %PROGRAMFILES(X86)%\Microsoft\Edge\Application\HERE\Installer
+setup.exe --uninstall --system-level --verbose-logging --force-uninstall
