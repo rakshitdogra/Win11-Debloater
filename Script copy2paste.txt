@@ -1,4 +1,4 @@
-Copy and paste this file in WINDOWS POWERSHELL (RUNNED AS ADMINISTRATOR).
+Copy and paste the text below in WINDOWS POWERSHELL (RUNNED AS ADMINISTRATOR).
 
 
 Get-AppxPackage -allusers Microsoft.PPIProjection | Remove-AppxPackage
