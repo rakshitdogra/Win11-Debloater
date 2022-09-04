@@ -9,6 +9,7 @@
   <sub>CURATED WITH ❤️ BY Rakshit Dogra.</sub>
 </p>
 
+<h2>This is a poweshell script. Paste this in powershell with admin access.</h2>
 
 <h1 align="center">Important / Disclaimer</h1>
 THIS SCRIPT WILL DELETE ALL SYSTEM APPS AND WILL LEFT AN EXTREMELY LITE VERSION OF WINDOWS.
