@@ -9,9 +9,6 @@
   <sub>CURATED WITH ❤️ BY Rakshit Dogra.</sub>
 </p>
 
-<h2>Winlite10 iso</h2>
-Win10lite (unofficial) iso file is available on the website along with script --> <a href="https://rakshitdogra.github.io/winlite10.github.io/">LINK</a></sub>
-
 <h2>Important</h2>
 This is a poweshell script. Paste this in powershell with admin access. This also works for WINDOWS 10
 <h2>Script in file named Script copy2paste.txt</h2>
